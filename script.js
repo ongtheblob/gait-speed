@@ -1,5 +1,4 @@
 
-<body>
 
 <div class="card">
   <h1>Gait Speed Calculator</h1>
